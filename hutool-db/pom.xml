@@ -28,7 +28,7 @@
 		<sqlite.version>3.40.0.0</sqlite.version>
 		<!-- 此处固定2.5.x，支持到JDK8 -->
 		<hsqldb.version>2.5.2</hsqldb.version>
-		<jedis.version>4.3.1</jedis.version>
+		<jedis.version>jedis-3.6.2</jedis.version>
 	</properties>
 
 	<dependencies>
